@@ -55,7 +55,7 @@ body {
 @media screen and (max-width: 1024px) {
 
     .navbar {
-        justify-content: space-around;
+        justify-content: space-between;
     }
     .navbar .nav-links {
         display: none;
